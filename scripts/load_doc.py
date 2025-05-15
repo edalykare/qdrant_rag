@@ -1,6 +1,6 @@
 from pymongo import MongoClient
 
-client = MongoClient("mongodb://admin:pass123@15.237.211.7:27017/")
+client = MongoClient("$$$$")
 db = client["ma_base"]
 collection = db["documents"]
 
