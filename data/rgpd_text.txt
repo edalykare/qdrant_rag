@@ -1,0 +1,93 @@
+Data Engineer
+Mohamed Edaly Kar´e
+Ach`ere, 78260
+I 0656674960
+# edalykare@gmail.com
+ð mohamed-edaly-kare
+Data Engineer
+Azure / Microsoft Fabric / Spark / Snowflake
+Exp´eriences professionnelles
+Avril 2024
+– En poste
+France TV Pub, Paris, Assistant Data engineer
+○D´eveloppement de pipelines d’ingestion, de transformation et de stockage des donn´ees avec PySpark sur
+la plateforme Microsoft Fabric.
+○Optimisation des performances des pipelines Spark et am´elioration de leur efficacit´e.
+○D´eveloppement de modules de monitoring des pipelines de donn´ees pour assurer leur fiabilit´e et leur
+suivi.
+○Exploration et extraction des donn´ees issues de diff´erentes sources afin de concevoir une base de
+connaissances, en collaboration avec les Data Scientists.
+○Interaction avec les Data Scientists pour comprendre leurs besoins et fournir les donn´ees dans le format
+souhait´e.
+○Participation au choix de la stack technologique de la data plateforme grˆace `a une veille technologique
+continue.
+○Mise en place d’une infrastructure de streaming de donn´ees bas´ee sur Kafka, Airflow et Azure.
+JUL 2023 –
+Mars 2024
+Sopra Steria, Lille, DataOps Scientist, CDI
+○D´eveloppement d’une application web avec Flask.
+○Int´egration d’une IA g´en´erative (OpenAI, AWS Bedrock) via les APIs Python.
+○Automatisation du d´eploiement applicatif avec Jenkins (CI/CD) et Kubernetes.
+○Int´egration de tests automatis´es dans les pipelines Jenkins pour valider les applications avant d´eploiement.
+○D´eploiement et gestion d’une stack ELK (Elasticsearch, Logstash, Kibana) sur Kubernetes.
+○Mise en place d’un syst`eme de monitoring et alerting avec Grafana.
+Nov 2022 –
+Mars 2023
+Kantar Worldpanel, Paris, Data Scientist , CDD
+○Analyse statistique de panelistes, segmentation comportementale (Clustering), analyse de corr´elation et
+de r`egles d’association (R, arules)
+○D´etection des anomalies (paneliste atypique) dans les s´eries temporelles d’achats (Excel, R Tidy Anomaly
+Detection)
+○Conception de visualisations interactives pour pr´esenter les tendances dans les donn´ees panelistes (
+Python, Matplotlib, Seaborn, PowerBI)
+○Corriger des bugs sur les codes de calculs d’indicateur.
+○Tester les codes et documenter les projets.
+○Migration de tous les codes de calculs SAS vers R (data.table)
+Mai 2022 –
+Oct 2022
+Mutualit´e Sociale Agricole, Lille, Data Scientist / Statisticien, Stage
+○Conception et mise en place d’une base de connaissances provenant du big data `a l’aide de scripts SQL
+´elabor´es (Hive, SQL).
+○R´ealisation d’analyses en composantes principales (ACP) sur des donn´ees volumineuses, r´eduction de
+dimensions et meilleure compr´ehension des patterns (R, python).
+○Clustering des entreprises selon les niveaux de risque K-means (Python / Apache Spark scala).
+○Application de mod`eles de machine learning pour la d´etection des salari´es en situation de d´esinsertion
+professionnelle (Reg logistique, SVM, Gradient Boosting).
+○Animation d’ateliers, r´edaction de documentations techniques et pr´esentation aux directions m´etiers.
+
+Comp´etences techniques
+○Langages / Scripting:
+R, Python, SQL, Bash
+○Base de donn´ees:
+MySQL, Postgresql, mongoDB
+○Environment/Visualisation:
+Hadoop, Spark, MapReduce, Tableau, Grafana,
+Power BI
+○ETL/Cloud:
+Airflow, Snowflake, DBT, AWS , Azure
+○Librairies:
+Pandas, Numpy, Sk-learn, Caret
+○Ops / Infra:
+Kubernetes, Ansible, Docker, Jenkins CI/CD
+Comp´etences g´en´erales
+○Extraction, Transformation et Stockage de
+donn´ees
+○Mod´elisation de base de donn´ees
+○Analyse de donn´ees
+○Machine learning
+○Gestion de base de donn´ees
+○Data Visualisation
+○Data Warehouse
+Langues
+Fran¸cais
+Niveau C2
+English
+Niveau C1
+Formation
+2024–2025
+Mast`ere Sp´ecialis´e Expert Big Data Engineer, Universit´e de technologie de Troyes, France
+2019–2022
+Master 2 Math´ematique et informatique appliqu´es parcours Data science, Universit´e de
+Lille
+2016–2019
+Licence Math´ematiques et Informatiques , UT, S´en´egal

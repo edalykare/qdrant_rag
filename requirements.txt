@@ -4,5 +4,3 @@ langchain
 pymupdf
 numpy
 pymongo
-gridfs
-

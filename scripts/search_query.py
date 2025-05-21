@@ -1,5 +1,3 @@
-# search_query.py
-
 from sentence_transformers import SentenceTransformer
 from qdrant_client import QdrantClient
 
