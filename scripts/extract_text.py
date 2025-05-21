@@ -6,9 +6,9 @@ import gridfs
 import os
 from io import BytesIO
 
-MONGO_URI = "mongodb://localhost:27017"
-DB_NAME = "rag_rgpd"
-COLLECTION_NAME = "pdfs"
+MONGO_URI = "mongodb://admin:pass123@15.237.211.7:27017/"
+DB_NAME = "Rag"
+COLLECTION_NAME = "rag"
 
 def extract_text_from_pdf_bytes(pdf_bytes):
     doc = fitz.open(stream=pdf_bytes, filetype="pdf")
